@@ -8,9 +8,9 @@
 <body>
     <?php    
         $salary=array("Ajay"=>"550000","Sayali"=>"250000","Sakshi"=>"200000");  
-        echo "Ajay salary: ".$salary["Ajay"]."<br/>";  
-        echo "Sayali salary: ".$salary["Sayali"]."<br/>";  
-        echo "Sakshi salary: ".$salary["Sakshi"]."<br/>";  
+        echo "Ajay's salary: ".$salary["Ajay"]."<br/>";  
+        echo "Sayali's salary: ".$salary["Sayali"]."<br/>";  
+        echo "Sakshi's salary: ".$salary["Sakshi"]."<br/>";  
     ?>  
 </body>
 </html>
